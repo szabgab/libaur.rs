@@ -5,8 +5,8 @@ version = "0.0.0"
 authors = ["morganamilo <morganamilo@archlinux.org>"]
 edition = "2018"
 
-homepage = "http://github.com/Morganamilo/libaur.rs"
-repository = "http://github.com/Morganamilo/libaur.rs"
+homepage = "https://github.com/Morganamilo/libaur.rs"
+repository = "https://github.com/Morganamilo/libaur.rs"
 documentation = "https://docs.rs/libaur"
 license = "GPL-3.0"
 keywords = ["archlinux", "arch", "alpm", "pacman", "aur"]
